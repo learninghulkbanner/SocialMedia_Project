@@ -8,3 +8,5 @@ iwan app
 3.Block
 
 4.last seen hiding for purticular person
+
+5.video call and audio call function implemented
