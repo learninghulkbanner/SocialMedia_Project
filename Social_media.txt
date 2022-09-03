@@ -4,3 +4,7 @@ iwan app
 
 
 2.post
+
+3.Block
+
+4.last seen hiding for purticular person
